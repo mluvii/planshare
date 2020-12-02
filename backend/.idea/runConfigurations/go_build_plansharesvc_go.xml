@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build plansharesvc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="backend" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <envs>
+      <env name="API_PORT" value="8380" />
+    </envs>
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/plansharesvc.go" />
+    <package value="github.com/mluvii/planshare/backend" />
+    <directory value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
