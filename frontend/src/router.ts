@@ -19,6 +19,11 @@ export default new Router({
       component: Plan,
     },
     {
+      path: '/plan/:id',
+      name: 'plan',
+      component: Plan,
+    },
+    {
       path: '/about',
       name: 'about',
       component: About,
